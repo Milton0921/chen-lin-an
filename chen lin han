@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    printf("Hello Jun ");
+    
+    cout <<  "hello Ian ";
+    cout <<  "my height is " << 50 << "kg " << 180 << "cm";
+
+    return 0;
+}
